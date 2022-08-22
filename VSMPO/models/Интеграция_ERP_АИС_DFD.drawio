@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T05:48:03.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BOoia6VzlU9bFlCBMBdn" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T07:16:53.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cchgDNgZBsjFJswRbxkX" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3554" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="iLyNXibkhxgOzHxXVg3C-108" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Этап 6&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Фиксирование выполнения операций&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="463" y="320" width="147" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iLyNXibkhxgOzHxXVg3C-109" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Этап 7&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Заполнение трудозатрат&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;shadow=0;" parent="1" vertex="1">
+        <mxCell id="iLyNXibkhxgOzHxXVg3C-109" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Этап 7&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Заполнение&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;- - - затрат&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="320" width="147" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iLyNXibkhxgOzHxXVg3C-110" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Этап 8&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Списание материалов и ПФ&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;whiteSpace=wrap;" parent="1" vertex="1">
@@ -173,7 +173,7 @@
         <mxCell id="gDf4PboOrb0UgYzDx0ND-21" value="Параметры изделия" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="470" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6CbRcmf24GguOIrz-hok-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.185;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iLyNXibkhxgOzHxXVg3C-134" target="iLyNXibkhxgOzHxXVg3C-110">
+        <mxCell id="6CbRcmf24GguOIrz-hok-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.185;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iLyNXibkhxgOzHxXVg3C-134" target="iLyNXibkhxgOzHxXVg3C-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="590" as="sourcePoint" />
             <mxPoint x="270" y="540" as="targetPoint" />
