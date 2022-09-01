@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T09:45:59.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3ygqMaiOuy8P82mSHDZG" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T19:28:01.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NVDXUKapo7213BEYYqsP" version="20.2.7" type="github">
   <diagram id="PHX1l-ExRGSCwsFTTTdl" name="Страница 1">
-    <mxGraphModel dx="1422" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NBpqTVy8cXAawz9MeVF5-68" value="Информация&amp;nbsp;&lt;br&gt;для создания&amp;nbsp;&lt;br&gt;Паспорта ERP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBpqTVy8cXAawz9MeVF5-44">
+          <mxGeometry x="0.2259" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NBpqTVy8cXAawz9MeVF5-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.008;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" source="NBpqTVy8cXAawz9MeVF5-29" target="NBpqTVy8cXAawz9MeVF5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="919.04" y="50.01999999999998" as="sourcePoint" />
@@ -257,7 +262,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBpqTVy8cXAawz9MeVF5-66" value="информация по&lt;br&gt;операциям из NES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBpqTVy8cXAawz9MeVF5-57">
+        <mxCell id="NBpqTVy8cXAawz9MeVF5-66" value="информация по&lt;br&gt;операциям из MES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBpqTVy8cXAawz9MeVF5-57">
           <mxGeometry x="0.6537" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
