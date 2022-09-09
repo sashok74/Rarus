@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T06:49:03.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vs9SrSSZYwx23GKmL9HW" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T07:18:31.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="37dlZBexDpE9xABFpWoW" version="20.2.8" type="github">
   <diagram id="UvT_nuZFbLqnoWbBBMHW" name="Страница 1">
     <mxGraphModel dx="989" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sguft5I54XbJpJrDdP_t-5" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="100" width="446" height="810" as="geometry" />
+          <mxGeometry x="304" y="100" width="446" height="830" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-178" value="паспорт" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry x="20" width="426" height="120" as="geometry" />
@@ -99,8 +99,11 @@
         <mxCell id="Sguft5I54XbJpJrDdP_t-109" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-102">
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Sguft5I54XbJpJrDdP_t-228" value="полуфабрикаты ПФ1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-6">
+          <mxGeometry x="246" y="12" width="124" height="18" as="geometry" />
+        </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-7" value="опер-2" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="240" width="426" height="110" as="geometry" />
+          <mxGeometry x="20" y="240" width="426" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-92" value="" style="group;" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-7">
           <mxGeometry x="40" y="10" width="60" height="60" as="geometry" />
@@ -132,8 +135,11 @@
         <mxCell id="Sguft5I54XbJpJrDdP_t-100" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-101">
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Sguft5I54XbJpJrDdP_t-231" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Завершаем предыдущий этап выпуском полуфабрикатов. ПФ1 Делим партия 3 + 1.&amp;nbsp; Создаем этап на 3 заготовки (отстающие, если больше одной, ждут прихода операций, возможно они также разделятся) переносим в него&amp;nbsp; операции со 2 включительно. в материалы заносим ПФ1 (1-2-3), отмечаем операцию 2 выполненной.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-7">
+          <mxGeometry x="110" width="316" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-8" value="опер-3" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="350" width="426" height="90" as="geometry" />
+          <mxGeometry x="20" y="370" width="426" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-177" value="" style="group" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-8">
           <mxGeometry x="40" y="15" width="60" height="60" as="geometry" />
@@ -166,7 +172,7 @@
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-32" value="опер-4" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="440" width="426" height="90" as="geometry" />
+          <mxGeometry x="20" y="460" width="426" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=21;" edge="1" parent="Sguft5I54XbJpJrDdP_t-32" source="Sguft5I54XbJpJrDdP_t-33" target="Sguft5I54XbJpJrDdP_t-46">
           <mxGeometry relative="1" as="geometry">
@@ -227,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-29" value="опер-5" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="530" width="426" height="120" as="geometry" />
+          <mxGeometry x="20" y="550" width="426" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-172" value="" style="group" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-29">
           <mxGeometry x="160" y="50" width="60" height="60" as="geometry" />
@@ -290,7 +296,7 @@
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-9" value="опер-6" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="650" width="426" height="160" as="geometry" />
+          <mxGeometry x="20" y="670" width="426" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-170" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=8;" edge="1" parent="Sguft5I54XbJpJrDdP_t-9" source="Sguft5I54XbJpJrDdP_t-17" target="Sguft5I54XbJpJrDdP_t-62">
           <mxGeometry relative="1" as="geometry" />
@@ -530,9 +536,6 @@
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-223" value="инфорамация из MES" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Sguft5I54XbJpJrDdP_t-228" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
