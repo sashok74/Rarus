@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T07:36:38.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8YzUTOQr9r-sErAkWiNA" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T10:43:04.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="B-ACGQWz1os5ir3XbIKR" version="20.2.8" type="github">
   <diagram id="UvT_nuZFbLqnoWbBBMHW" name="Страница 1">
-    <mxGraphModel dx="989" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sguft5I54XbJpJrDdP_t-5" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="100" width="446" height="830" as="geometry" />
+          <mxGeometry x="304" y="240" width="446" height="835" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-178" value="паспорт" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" width="426" height="120" as="geometry" />
+          <mxGeometry x="20" width="426" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-195" value="" style="group" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-178">
           <mxGeometry x="40" y="20" width="60" height="60" as="geometry" />
@@ -43,8 +43,11 @@
         <mxCell id="Sguft5I54XbJpJrDdP_t-194" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-222">
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Sguft5I54XbJpJrDdP_t-234" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Создан&amp;nbsp; &quot;пустой&quot; этап, операции, расход, трудозатраты будут заноситься по мере поступления операций. Информация по операциям берется из ресурсных спецификаций, либо поступает с MES&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-178">
+          <mxGeometry x="110" width="316" height="125" as="geometry" />
+        </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-6" value="опер-1" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="120" width="426" height="120" as="geometry" />
+          <mxGeometry x="20" y="125" width="426" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="Sguft5I54XbJpJrDdP_t-6" source="Sguft5I54XbJpJrDdP_t-22" target="Sguft5I54XbJpJrDdP_t-42">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +106,7 @@
           <mxGeometry x="246" y="12" width="124" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-7" value="опер-2" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="240" width="426" height="130" as="geometry" />
+          <mxGeometry x="20" y="245" width="426" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-92" value="" style="group;" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-7">
           <mxGeometry x="40" y="10" width="60" height="60" as="geometry" />
@@ -135,11 +138,11 @@
         <mxCell id="Sguft5I54XbJpJrDdP_t-100" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-101">
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Sguft5I54XbJpJrDdP_t-231" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Завершаем предыдущий этап выпуском полуфабрикатов. ПФ1 Делим партия 3 + 1.&amp;nbsp; Создаем этап на 3 заготовки (отстающие, если больше одной, ждут прихода операций, возможно они также разделятся) переносим в него&amp;nbsp; операции со 2 включительно. в материалы заносим ПФ1 (1-2-3), отмечаем операцию 2 выполненной.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-7">
+        <mxCell id="Sguft5I54XbJpJrDdP_t-231" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Завершаем предыдущий этап выпуском полуфабрикатов. ПФ1 Делим партия 3 + 1.&amp;nbsp; Создаем этап на 3 заготовки (отстающие, если больше одной, ждут прихода операций, возможно они также разделятся) переносим в него&amp;nbsp; операции со 2 включительно. в материалы заносим ПФ1 (1-2-3), отмечаем операцию 2 выполненной. Во вновь созданных этапах изделием ставим изделие из предыдущего этапа.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-7">
           <mxGeometry x="110" width="316" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-8" value="опер-3" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="370" width="426" height="90" as="geometry" />
+          <mxGeometry x="20" y="375" width="426" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-177" value="" style="group" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-8">
           <mxGeometry x="40" y="15" width="60" height="60" as="geometry" />
@@ -172,7 +175,7 @@
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-32" value="опер-4" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="460" width="426" height="90" as="geometry" />
+          <mxGeometry x="20" y="465" width="426" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=21;" edge="1" parent="Sguft5I54XbJpJrDdP_t-32" source="Sguft5I54XbJpJrDdP_t-33" target="Sguft5I54XbJpJrDdP_t-46">
           <mxGeometry relative="1" as="geometry">
@@ -233,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-29" value="опер-5" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="550" width="426" height="120" as="geometry" />
+          <mxGeometry x="20" y="555" width="426" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-172" value="" style="group" vertex="1" connectable="0" parent="Sguft5I54XbJpJrDdP_t-29">
           <mxGeometry x="160" y="50" width="60" height="60" as="geometry" />
@@ -296,7 +299,7 @@
           <mxGeometry x="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-9" value="опер-6" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="Sguft5I54XbJpJrDdP_t-5">
-          <mxGeometry x="20" y="670" width="426" height="160" as="geometry" />
+          <mxGeometry x="20" y="675" width="426" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-170" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=8;" edge="1" parent="Sguft5I54XbJpJrDdP_t-9" source="Sguft5I54XbJpJrDdP_t-17" target="Sguft5I54XbJpJrDdP_t-62">
           <mxGeometry relative="1" as="geometry" />
@@ -443,99 +446,102 @@
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-213" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=14;entryX=0.003;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-197" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="165" as="targetPoint" />
+            <mxPoint x="280" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-197" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;создали паспорт&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-207" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-198" target="Sguft5I54XbJpJrDdP_t-199">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-214" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0.013;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-198" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="270" as="targetPoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-198" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 1 заготовки 1-2-3-4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-208" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-199" target="Sguft5I54XbJpJrDdP_t-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-215" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=-0.001;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-199" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="380" as="targetPoint" />
+            <mxPoint x="280" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-199" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 2 заготовки 1-2-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-209" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-200" target="Sguft5I54XbJpJrDdP_t-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-216" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-200" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="470" as="targetPoint" />
+            <mxPoint x="280" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-200" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 3 заготовки 1-2-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-210" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-201" target="Sguft5I54XbJpJrDdP_t-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-217" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-201" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="560" as="targetPoint" />
+            <mxPoint x="280" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-201" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 4 заготовки 1-2-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-218" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0.003;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-202" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="640" as="targetPoint" />
+            <mxPoint x="280" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-202" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 5 заготовки 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-211" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-203" target="Sguft5I54XbJpJrDdP_t-204">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="770" as="targetPoint" />
+            <mxPoint x="140" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-219" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-203" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="720" as="targetPoint" />
+            <mxPoint x="280" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-203" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 5 заготовки 1-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-212" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-204" target="Sguft5I54XbJpJrDdP_t-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-220" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;entryX=0;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-204" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="800" as="targetPoint" />
+            <mxPoint x="280" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-204" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 6 заготовки 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-221" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.924;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-205" target="Sguft5I54XbJpJrDdP_t-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-205" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;выполнили операцию 6 заготовки 1-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-224" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="Sguft5I54XbJpJrDdP_t-223" target="Sguft5I54XbJpJrDdP_t-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sguft5I54XbJpJrDdP_t-223" value="инфорамация из MES" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="100" height="100" as="geometry" />
+          <mxGeometry x="90" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sguft5I54XbJpJrDdP_t-233" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Деление этапов по количеству пройденных операций&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Открываем этап на всё количество начатых заготовок, по мере производства, отстающие заготовки отделяются в отдельные этапы.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="680" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
